@@ -1,0 +1,1 @@
+SELECT birth AS EmmaStone FROM people WHERE name='Emma Stone';
